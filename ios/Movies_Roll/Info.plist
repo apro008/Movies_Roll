@@ -72,6 +72,13 @@
 		<string>Octicons.ttf</string>
 		<string>SimpleLineIcons.ttf</string>
 		<string>Zocial.ttf</string>
+		<string>Domine-Bold.ttf</string>
+		<string>Domine-Medium.ttf</string>
+		<string>Domine-Regular.ttf</string>
+		<string>Domine-SemiBold.ttf</string>
+		<string>IntegralCF-Bold.otf</string>
+		<string>IntegralCF-Medium.otf</string>
+		<string>IntegralCF-Regular.otf</string>
 	</array>
 </dict>
 </plist>

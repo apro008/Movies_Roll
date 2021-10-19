@@ -31,6 +31,13 @@
 		387D646151DC4397987331CD /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4BF437FD78224AEEB0B88B68 /* Octicons.ttf */; };
 		CCC210DD77F54589BDFC10B6 /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F460B70E61914428B8727BC1 /* SimpleLineIcons.ttf */; };
 		7F3EF106A3674568AD3A01A0 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 73A4E3BEA9D84B7A893C01E7 /* Zocial.ttf */; };
+		A5732ED619ED4B64B9CA88BE /* Domine-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DC127F78203644A1B1AAAE16 /* Domine-Bold.ttf */; };
+		E84B20E69AA644E7A60FC8F8 /* Domine-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5BB470B2FC894BD381BC8E89 /* Domine-Medium.ttf */; };
+		6F8F3E6E7CBE467D84EA7698 /* Domine-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D2EC01A888AE4566B6295F31 /* Domine-Regular.ttf */; };
+		E3F0353CE8D745209A019E82 /* Domine-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C4FA5CA730DA4F19926C3B23 /* Domine-SemiBold.ttf */; };
+		38CFA81DF32B44C3AE7A0F1A /* IntegralCF-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = E1F1746B966740C2B78EB824 /* IntegralCF-Bold.otf */; };
+		F5C4A0AA119C40BABE6F59D4 /* IntegralCF-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0728A10BF32A4E0F92008ACA /* IntegralCF-Medium.otf */; };
+		B981213C78DE464B88D7BFA6 /* IntegralCF-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = BA00F08F27AC4A46AD863D17 /* IntegralCF-Regular.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -74,6 +81,13 @@
 		4BF437FD78224AEEB0B88B68 /* Octicons.ttf */ = {isa = PBXFileReference; name = "Octicons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		F460B70E61914428B8727BC1 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; name = "SimpleLineIcons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		73A4E3BEA9D84B7A893C01E7 /* Zocial.ttf */ = {isa = PBXFileReference; name = "Zocial.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DC127F78203644A1B1AAAE16 /* Domine-Bold.ttf */ = {isa = PBXFileReference; name = "Domine-Bold.ttf"; path = "../assets/fonts/Domine-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5BB470B2FC894BD381BC8E89 /* Domine-Medium.ttf */ = {isa = PBXFileReference; name = "Domine-Medium.ttf"; path = "../assets/fonts/Domine-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D2EC01A888AE4566B6295F31 /* Domine-Regular.ttf */ = {isa = PBXFileReference; name = "Domine-Regular.ttf"; path = "../assets/fonts/Domine-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C4FA5CA730DA4F19926C3B23 /* Domine-SemiBold.ttf */ = {isa = PBXFileReference; name = "Domine-SemiBold.ttf"; path = "../assets/fonts/Domine-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E1F1746B966740C2B78EB824 /* IntegralCF-Bold.otf */ = {isa = PBXFileReference; name = "IntegralCF-Bold.otf"; path = "../assets/fonts/IntegralCF-Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0728A10BF32A4E0F92008ACA /* IntegralCF-Medium.otf */ = {isa = PBXFileReference; name = "IntegralCF-Medium.otf"; path = "../assets/fonts/IntegralCF-Medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BA00F08F27AC4A46AD863D17 /* IntegralCF-Regular.otf */ = {isa = PBXFileReference; name = "IntegralCF-Regular.otf"; path = "../assets/fonts/IntegralCF-Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -185,6 +199,13 @@
 				4BF437FD78224AEEB0B88B68 /* Octicons.ttf */,
 				F460B70E61914428B8727BC1 /* SimpleLineIcons.ttf */,
 				73A4E3BEA9D84B7A893C01E7 /* Zocial.ttf */,
+				DC127F78203644A1B1AAAE16 /* Domine-Bold.ttf */,
+				5BB470B2FC894BD381BC8E89 /* Domine-Medium.ttf */,
+				D2EC01A888AE4566B6295F31 /* Domine-Regular.ttf */,
+				C4FA5CA730DA4F19926C3B23 /* Domine-SemiBold.ttf */,
+				E1F1746B966740C2B78EB824 /* IntegralCF-Bold.otf */,
+				0728A10BF32A4E0F92008ACA /* IntegralCF-Medium.otf */,
+				BA00F08F27AC4A46AD863D17 /* IntegralCF-Regular.otf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -299,6 +320,13 @@
 				387D646151DC4397987331CD /* Octicons.ttf in Resources */,
 				CCC210DD77F54589BDFC10B6 /* SimpleLineIcons.ttf in Resources */,
 				7F3EF106A3674568AD3A01A0 /* Zocial.ttf in Resources */,
+				A5732ED619ED4B64B9CA88BE /* Domine-Bold.ttf in Resources */,
+				E84B20E69AA644E7A60FC8F8 /* Domine-Medium.ttf in Resources */,
+				6F8F3E6E7CBE467D84EA7698 /* Domine-Regular.ttf in Resources */,
+				E3F0353CE8D745209A019E82 /* Domine-SemiBold.ttf in Resources */,
+				38CFA81DF32B44C3AE7A0F1A /* IntegralCF-Bold.otf in Resources */,
+				F5C4A0AA119C40BABE6F59D4 /* IntegralCF-Medium.otf in Resources */,
+				B981213C78DE464B88D7BFA6 /* IntegralCF-Regular.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
